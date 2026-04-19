@@ -10,7 +10,7 @@ import NoteList from '@/components/NoteList/NoteList';
 import NoteForm from '@/components/NoteForm/NoteForm';
 import Pagination from '@/components/Pagination/Pagination';
 import Modal from '@/components/Modal/Modal';
-import css from './NotesPage.module.css';
+import css from './Notes.module.css';
 
 const PER_PAGE = 12;
 
